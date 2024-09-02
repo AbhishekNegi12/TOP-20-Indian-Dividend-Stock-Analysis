@@ -35,8 +35,6 @@ This structured approach ensures a transparent and reproducible analysis, provid
 
 ## Results
 https://github.com/AbhishekNegi12/TOP-20-Indian-Dividend-Stock-Analysis/commit/2df306637720c2a9883991bcac30625510d23445
--->Corelation Matrix
-https://github.com/AbhishekNegi12/TOP-20-Indian-Dividend-Stock-Analysis/commit/2df306637720c2a9883991bcac30625510d23445
 
 ## Conclusion
 
